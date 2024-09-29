@@ -21,7 +21,7 @@
     "iplocation": "^7.0.0",
     "jimp": "^1.0.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^5.13.20",
+    "mongoose": "^5.13.22",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
   },
